@@ -1,0 +1,11 @@
+Package: luci-app-shadowsocks
+Version: 1.9.0-1
+Depends: libc, iptables, ipset
+Source: package/luci-app-shadowsocks
+License: GPLv3
+LicenseFiles: LICENSE
+Section: luci
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: all
+Installed-Size: 10780
+Description:  LuCI Support for shadowsocks-libev.

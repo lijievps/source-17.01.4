@@ -1,0 +1,11 @@
+Package: shadowsocks-libev
+Version: 3.1.3-4
+Depends: libc, zlib, libpthread, libev, libpcre, libcares, libsodium, libmbedtls
+Source: package/shadowsocks-libev
+License: GPLv3
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: mips_24kc
+Installed-Size: 151895
+Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.

@@ -1,0 +1,13 @@
+/etc/config/shadowsocks
+/usr/bin/ss-rules
+/usr/lib/lua/luci/controller/shadowsocks.lua
+/usr/lib/lua/luci/model/cbi/shadowsocks/general.lua
+/usr/lib/lua/luci/view/shadowsocks/general.htm
+/usr/lib/lua/luci/view/shadowsocks/dynamiclist.htm
+/etc/init.d/shadowsocks
+/usr/lib/lua/luci/i18n/shadowsocks.zh-cn.lmo
+/usr/lib/lua/luci/model/cbi/shadowsocks/servers-details.lua
+/usr/lib/lua/luci/model/cbi/shadowsocks/servers.lua
+/etc/uci-defaults/luci-shadowsocks
+/usr/lib/lua/luci/model/cbi/shadowsocks/access-control.lua
+/usr/lib/lua/luci/view/shadowsocks/servers-details.htm

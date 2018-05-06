@@ -1,0 +1,4 @@
+/usr/lib/lua/luci/i18n/chinadns.zh-cn.lmo
+/etc/uci-defaults/luci-chinadns
+/usr/lib/lua/luci/controller/chinadns.lua
+/usr/lib/lua/luci/model/cbi/chinadns.lua

@@ -1,0 +1,11 @@
+Package: ChinaDNS
+Version: 1.3.2-6
+Depends: libc
+Source: package/chinadns
+License: GPLv3
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: mips_24kc
+Installed-Size: 25364
+Description:  Protect yourself against DNS poisoning in China.
